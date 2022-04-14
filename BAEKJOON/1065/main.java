@@ -12,10 +12,11 @@ public class Main{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();        
-        
+        System.out.println(arithmetic_sequence(n));
     }
     
     public static int arithmetic_sequence(int num){
+        int count = 0;
         
     }
 }

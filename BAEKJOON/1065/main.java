@@ -18,8 +18,10 @@ public class Main{
     public static int arithmetic_sequence(int num){
         int count = 0;
 
-        for(int i=0;i<100;i++){
+        for(int i=0;i<=n;i++){
+            if(i<100){
 
+            }
         }
     }
 }
